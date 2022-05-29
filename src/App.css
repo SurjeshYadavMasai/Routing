@@ -1,0 +1,27 @@
+.App {
+  background-color:grey;
+}
+.App th,tr,  td {
+  border : 2px solid black;
+  padding: 15px;
+  background-color: darkgray;
+}
+.App tr, td{
+  font-weight: 600;
+  font-size: 20px;
+  background-color:grey;
+}
+#navbarNav{
+  background-color:darkgray;
+  border-radius: 20px;
+}
+.navbar-brand{
+  background-color:cadetblue;
+  color: white;
+  border-radius: 20px;
+}
+.home{
+ font-size: 50px;
+ color: aquamarine;
+ margin: auto;
+}
